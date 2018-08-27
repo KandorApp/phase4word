@@ -23,10 +23,10 @@ class LibrVC: UIViewController {
     
     var state: State!
     
-//    required init? (coder aDecoder: NSCoder) {
-//        state = State(game: mood, players: players)
-//        super.init(coder: aDecoder)
-//    }
+    required init? (coder aDecoder: NSCoder) {
+        state = State(game: mood, players: players)
+        super.init(coder: aDecoder)
+    }
     
     var sortMood: SortState = .timeDescending
     var powr: Bool = false
