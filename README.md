@@ -1,6 +1,6 @@
 #### phase4word
 
-The Swift code in this repository compiles into the version of phase4word that is currently in [early. testing](https://phase4word.webnode.com). The [backend](https://github.com/KandorApp/ipfs-endpoint) is also open source.
+The Swift code in this repository compiles into the version of phase4word that is currently in [early testing](https://phase4word.webnode.com). The [backend](https://github.com/KandorApp/ipfs-endpoint) is also open source.
 
 phase4 is the codename for ßloc∫tar. Before there was ßloc∫tar, there was phase4. Before phase4, I had the idea to make an app called Kandor. In the summer of 2015, I was not a coder. ßut I had an idea to make a new kind of online forum, where ideas matter over identities. Such a system could allow for the fair evaluation of ideas. I am of course inspired by the philosopher John Stewart Mill, who considered such ideals as a "veil of ignorance" and a "marketplace of ideas". 
 
